@@ -6,41 +6,29 @@ Este projeto consiste em uma página web desenvolvida com HTML e CSS que apresen
 
 Tecnologias Utilizadas
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
 Funcionalidades
 
-Apresentação da história da logo do Android
+- Apresentação da história da logo do Android
 
-Inclusão de vídeo relacionado ao tema
+- Inclusão de vídeo relacionado ao tema
 
-Listas com informações relevantes
+- Listas com informações relevantes
 
-Links para recursos adicionais sobre HTML e CSS
+- Links para recursos adicionais sobre HTML e CSS
 
-Como Executar o Projeto
+- Recursos Adicionais para Estudo
 
-Clone o repositório:
+- MDN Web Docs - HTML
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+- MDN Web Docs - CSS
 
-Acesse a pasta do projeto:
+- W3Schools - HTML
 
-cd nome-do-projeto
-
-Abra o arquivo index.html em um navegador.
-
-Recursos Adicionais para Estudo
-
-MDN Web Docs - HTML
-
-MDN Web Docs - CSS
-
-W3Schools - HTML
-
-W3Schools - CSS
+- W3Schools - CSS
 
 Autor
 
