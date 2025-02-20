@@ -44,9 +44,11 @@ W3Schools - CSS
 
 Autor
 
-Desenvolvido por [Seu Nome].
+Desenvolvido por Roger Yamassaki.
 
 Licença
 
-Este projeto está sob a licença  Curso em Video
+Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+
 
