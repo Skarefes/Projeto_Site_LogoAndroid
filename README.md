@@ -1,16 +1,16 @@
-Projeto: História da Logo do Android
+# Projeto: História da Logo do Android
 
-Descrição
+## Descrição
 
 Este projeto consiste em uma página web desenvolvida com HTML e CSS que apresenta uma pequena história da logo do Android. O objetivo é demonstrar conhecimentos fundamentais de marcação e estilização, incluindo elementos multimídia, listas e links para aprimorar o aprendizado de HTML e CSS.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5
 
 - CSS3
 
-Funcionalidades
+## Funcionalidades
 
 - Apresentação da história da logo do Android
 
@@ -30,11 +30,11 @@ Funcionalidades
 
 - W3Schools - CSS
 
-Autor
+## Autor
 
 Desenvolvido por Roger Yamassaki.
 
-Licença
+## Licença
 
 Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
