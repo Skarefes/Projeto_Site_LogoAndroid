@@ -32,7 +32,7 @@ Este projeto consiste em uma página web desenvolvida com HTML e CSS que apresen
 
 ## Autor
 
-Desenvolvido por Roger Yamassaki.
+Desenvolvido por Roger Yamassaki pelo Curso em Video.
 
 ## Licença
 
